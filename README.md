@@ -41,18 +41,11 @@ This small project helps practice the following key Python and web-related skill
 
 ## ▶️ How to Run
 
-You can run this code in any Python environment (like VSCode, PyCharm, or terminal), or directly in **Google Colab**.
-
-### 🔹 Option 1: Google Colab
+### 🔹 Google Colab
 
 1. Go to [https://colab.research.google.com](https://colab.research.google.com)
 2. Create a **new notebook**
 3. Paste the code into a code cell
-4. Run the cell
-5. Enter your **API key** and **city name** when prompted
-
-### 🔹 Option 2: Local Machine
-
-1. Make sure `requests` is installed:
-   ```bash
-   pip install requests
+4. https://colab.research.google.com/github/tara-hassanzadeh/Simple_weather_app/blob/main/simple_weather_app.ipynb
+5. Run the cell
+6. Enter your **API key** and **city name** when prompted
